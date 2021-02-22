@@ -26,6 +26,7 @@ Se agradece también la inclusión de nuevos tests unitarios para validar el com
 ### Cómo funciona
 
 Lo que te encontrás al abrir la carpeta de los fuentes usando un editor de tu preferencia es con el objeto de negocio FormaGeometrica. Tambien con una carpeta con unos archivos *.test.js: son los test unitarios sobre el método de impresión de reporte y otros complementarios.
+Los tests unitarios se ejecutan si en tu consola escribis: _npm run test_
 
 
 Te puedo ayudar indicandote ciertos criterios para que tengas en mente. Pero solo son guias porque la resolución es libre y cómo encarar el problema queda en el criterio de quien lo resuelva!
