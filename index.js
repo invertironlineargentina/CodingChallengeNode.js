@@ -1,3 +1,3 @@
 const frm=require("./Domain/FormaGeometrica");
-console.log("hola mundo ", frm.FORMAS.Trapecio);
+console.log("hola mundo: ", frm.FORMAS.Trapecio);
 
