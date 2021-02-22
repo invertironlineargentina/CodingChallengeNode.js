@@ -1,10 +1,6 @@
 const frmModule = require("../Domain/FormaGeometrica");
 const FormaGeometrica = frmModule.FormaGeometrica;
 
-test('test basico', () => {
-  expect(3).toBe(3);
-});
-
 
 test('Test: lista vacia', () => {
   expect(FormaGeometrica.imprimir([], 1)).toBe("<h1>Lista vacía de formas!</h1>");
