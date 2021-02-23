@@ -30,10 +30,10 @@ Lo que te encontrás al abrir la carpeta de los fuentes usando un editor de tu p
 Los tests unitarios se ejecutan si en tu consola escribis: _npm run test_
 
 
-Te puedo ayudar indicandote ciertos criterios para que tengas en mente. Pero solo son guias porque la resolución es libre y cómo encarar el problema queda en el criterio de quien lo resuelva!
+Te puedo ayudar indicandote ciertos criterios para que tengas en mente. Pero solo son guias porque la resolución es libre y cómo encarar el problema queda a juicio de quien lo resuelva!
 
-- Tene en cuanta el principo de [alta cohesion y bajo acoplamiento](https://es.wikipedia.org/wiki/GRASP#Alta_cohesi%C3%B3n_y_bajo_acoplamiento).
-- Fijate qué herramienta es más apropiada para refactorear. Typescript?
+- Tené en cuenta el principo de [alta cohesion y bajo acoplamiento](https://es.wikipedia.org/wiki/GRASP#Alta_cohesi%C3%B3n_y_bajo_acoplamiento) para hacer los reajustes que consideres necesarios.
+- ¿Pensas que Typescript te ayudaria en el refactoreo?
 - Patrones que te parezcan adecuados.
 - Tambien si no te agrada [jest](https://jestjs.io/en/) podes usar otro framework para hacer unit-testing.
 
