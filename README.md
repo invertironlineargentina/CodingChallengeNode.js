@@ -34,7 +34,7 @@ Te puedo ayudar indicandote ciertos criterios para que tengas en mente. Pero sol
 
 - Tené en cuenta el principo de [alta cohesion y bajo acoplamiento](https://es.wikipedia.org/wiki/GRASP#Alta_cohesi%C3%B3n_y_bajo_acoplamiento) para hacer los reajustes que consideres necesarios.
 - ¿Pensas que Typescript te ayudaria en el refactoreo?
-- Patrones que te parezcan adecuados.
-- Tambien si no te agrada [jest](https://jestjs.io/en/) podes usar otro framework para hacer unit-testing.
+- Patrones de diseño que te parezcan adecuados.
+- Si no te agrada [jest](https://jestjs.io/en/) podes usar otro framework para hacer los tests.
 
 **¡¡Buena suerte!!**
